@@ -1,0 +1,137 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Формы</title>
+		<link rel='stylesheet' href='styles_file.css'>
+		<meta charset='utf-8'>
+	</head>
+	<body>
+	<form action='' method='GET'>
+		<table border='1'>
+			<tr>
+				<td>Имя</td>
+				<td>
+					<input type='text' name='firstname' value='' />
+				</td>
+			</tr>
+			<tr>
+				<td>Фамилия</td>
+				<td>
+					<input type='text' name='lastname' value='' />
+				</td>
+			</tr>
+			<tr>
+				<td>Любимый фрукт</td>
+				<td>
+						 <input type='checkbox' name='fruit' value='apple' 	id='fruit_apple'	/>	<label for='fruit_apple' >Яблоко</label>
+					<br/><input type='checkbox' name='fruit' value='banana' id='fruit_banana'	/>	<label for='fruit_banana'>Банан</label>
+					<br/><input type='checkbox' name='fruit' value='carrot' id='fruit_carrot'	/>	<label for='fruit_carrot'>Морковь</label>
+					<br/><input type='checkbox' name='fruit' value='figue' 	id='fruit_figue'	/>	<label for='fruit_figue' >Инжир</label>
+				</td>
+			</tr>
+			<tr>
+				<td>Любимое время года</td>
+				<td>
+						 <input type='radio' name='season' value='winter' 	id='season_winter'	checked='checked'/>	<label for='season_winter'>Зима</label>
+					<br/><input type='radio' name='season' value='spring' 	id='season_spring'	/>	<label for='season_spring'>Весна</label>
+					<br/><input type='radio' name='season' value='summer' 	id='season_summer'	/>	<label for='season_summer'>Лето</label>
+					<br/><input type='radio' name='season' value='autumn' 	id='season_autumn'	/>	<label for='season_autumn'>Осень</label>
+
+				</td>
+			</tr>
+			<tr>
+				<td>Месяц рождения</td>
+				<td>
+				<select name='month' size='4' multiple='yes'>
+					<option value='01'>Январь</option>
+					<option value='02'>Февраль</option>
+					<option value='03'>Март</option>
+					<option value='04'>Апрель</option>
+					<option value='05'>Май</option>
+					<option value='06'>Июнь</option>
+				</select>
+				
+				</td>
+			</tr>
+			<tr>
+				<td>Ваш отзыв</td>
+				<td>
+					<textarea name='review'></textarea>						
+				</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>
+					<input type='submit' value='OK' />
+					
+				</td>
+			</tr>
+		</table>
+		
+	</form>
+	<br/>
+	<form action='' method='GET'>
+		<table border='1'>
+			<td colspan='2' align='center'><h2>Форма записи слушателя</h2></td>
+			</tr>
+			<tr>
+				<td>Имя слушателя</td>
+				<td>
+					<input type='text' name='firstname' value='' />
+				</td>
+			</tr>
+			<tr>
+				<td>Фамилия слушателя</td>
+				<td>
+					<input type='text' name='lastname' value='' />
+				</td>
+			</tr>
+			<tr>
+				<td>Выберите курс обучения</td>
+				<td>
+				<select name='cours'>
+					<option value='01'>Программирование Java</option>
+					<option value='02'>Программирование C++</option>
+					<option value='03'>Программирование PHP</option>
+					<option value='04'>Frontend верстка</option>
+					<option value='05'>Frontend программирование</option>
+					<option value='06'>Angular</option>
+				</select>
+				
+				</td>
+			</tr>
+			<tr>
+				<td>Выберите удобный график занятий</td>
+				<td>
+						<input type='checkbox' name='fruit' value='apple' 	id='fruit_apple'	/>	<label for='fruit_apple' >Утро</label>
+					<br/><input type='checkbox' name='fruit' value='banana' id='fruit_banana'	/>	<label for='fruit_banana'>День</label>
+					<br/><input type='checkbox' name='fruit' value='carrot' id='fruit_carrot'	/>	<label for='fruit_carrot'>Вечер</label>
+				</td>
+			</tr>
+			<tr>
+				<td>Выберите дни занятий</td>
+				<td>
+						 <input type='radio' name='season' value='winter' 	id='season_winter'	checked='checked'/>	<label for='season_winter'>Понедельник, среда</label>
+					<br/><input type='radio' name='season' value='spring' 	id='season_spring'	/>	<label for='season_spring'>Вторник, четверг</label>
+					<br/><input type='radio' name='season' value='summer' 	id='season_summer'	/>	<label for='season_summer'>Суббота</label>
+					
+				</td>
+			</tr>
+			
+			<tr>
+				<td>Ваши пожелания по обучению</td>
+				<td>
+					<textarea name='review'>Введите текст</textarea>						
+				</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>
+					<input type='submit' value='OK' />
+				</td>
+			</tr>
+		</table>
+		
+	</form>
+	</body>
+</html>

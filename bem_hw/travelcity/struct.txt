@@ -1,0 +1,43 @@
+container
+	container__header
+		header
+			header__logo
+				logo			A
+					logo__image
+	container__navigation
+		navigation
+			navigation__menu
+				menu
+					menu__item
+						menu__link
+			navigation__seach
+				seach
+					seach__box
+					seach__buttom			
+	container__slider
+		slider
+			slider_frame
+				slider__slides
+					slider__slide
+						slide
+	container__articles
+		articles
+			articles__article
+				article
+					article__photo
+					article__text
+	container__content
+		content
+			content__photo
+			content__info			
+				content__heading
+				content__text
+				content__more
+					content__link
+	container__footer
+		footer
+			footer__menu
+				menu menu_compact
+					menu__item
+						menu__link
+			footer__copyright

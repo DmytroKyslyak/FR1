@@ -1,0 +1,149 @@
+.gradient {
+    background: radial-gradient(at top, #0005a5, #000031);
+	background-repeat: no-repeat;
+	height: 800px;
+   }
+.bg-table{
+	width: 930px;
+	height: 530px;
+	left: 0;
+	top: 20px;
+	margin: 0 auto;
+	border-radius: 350px;
+	background: #c6c6c6;
+	padding: 10px;
+	border: 10px solid #9E9E9E;
+	position: relative;
+}
+.bg-table:hover{  
+	background: #c6fcfd;
+	border: 10px solid #23abff;
+	
+
+}
+.table{
+	width: 900px;
+	height: 500px;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+	border-radius: 350px;
+	background: #000030;
+	padding: 10px;
+	border: 5px solid #9E9E9E;
+	position: absolute;
+
+}
+.table:hover{
+	background: radial-gradient(40% 50%, #0005a5, #000030);
+	border: 5px solid #23abff;
+
+}
+.pleer1{
+	width: 100px;
+	height: 100px;
+	top: -150px;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+	border: 2px solid white;
+	position: absolute;
+	padding: 50px;
+}
+.pleer2{
+	width: 230px;
+	height: 80px;
+	border: 1px solid white;
+	position: absolute;
+	top: 350px;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	padding: 20px;
+	background: gray;
+	opacity: 0.8;
+	transition: all 0.5s ease-out 1s;
+}
+.pleer3{
+	width: 84px;
+	height: 230px;
+	left: 80px;
+	top: 0;
+	bottom: 0;
+	margin: auto 0;
+	border: 1px solid white;
+	position: absolute;
+	padding: 20px;
+	background: gray;
+	opacity: 0.8;
+		transition: all 0.5s ease-out 1s;
+}
+.pleer4{
+	width: 84px;
+	height: 230px;
+	top: 0;
+	bottom: 0;
+	margin: auto 0;
+	right: 70px;
+	border: 1px solid white;
+	position: absolute;
+	padding: 20px;
+	background: gray;
+	opacity: 0.8;	
+	transition: all 0.5s ease-out 1s;
+}
+.pleer2:hover{
+		opacity: 1;
+		background: transparent;
+}
+.pleer3:hover{
+		opacity: 1;
+		background: transparent;
+}
+.pleer4:hover{
+		opacity: 1;
+		background: transparent;
+}
+	
+.karta{
+	width: 50px;
+	height: 80px;
+	border-radius: 10px;
+	background: #7a0102;
+	border: 2px solid white;
+	display: inline-block;
+}
+.karta:hover{
+	background: yellow;
+}
+.kartav:hover{
+	background: yellow;
+}
+.kartav{
+	width: 80px;
+	height: 50px;
+	border-radius: 10px;
+	background: #7a0102;
+	border: 2px solid white;
+	display: inline-block;
+}	
+.karta2{
+	position: absolute;
+	top: 70px;
+	left: 90px;
+}
+.info{
+	font-size: 18pt;
+	color: red;
+	position: absolute;
+	bottom: -25px;
+	background: aliceblue;
+	width: 120px;
+	left: 0;
+	right: 0;
+	margin: auto;
+	text-align: center;
+}

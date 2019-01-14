@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NppFTP defaultCache="%CONFIGDIR%\Cache\%USERNAME%@%HOSTNAME%" outputShown="1" windowRatio="0.5" clearCache="0" clearCachePermanent="0">
+    <Profiles>
+        <Profile name="Univer" hostname="files.000webhost.com" port="21" username="vizitki85" password="58896321B25C22D6F35576" askPassword="0" timeout="30" securityMode="0" transferMode="0" connectionMode="0" dataPortMin="10000" dataPortMax="32000" listParams="" initialDir="" keyFile="" passphrase="" askPassphrase="0" useAgent="0" acceptedMethods="1">
+            <Cache />
+            <FileTypes asciiTypes="" binaryTypes="" />
+        </Profile>
+    </Profiles>
+</NppFTP>

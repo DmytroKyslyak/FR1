@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+	<head>
+		<title>title_text</title>
+		<link rel='stylesheet' href='$[![styles_file]!].css'>
+		<meta charset='utf-8'>
+	</head>
+	<body>
+		$[![body_code]!]
+	</body>
+	<script>
+	$[![//script_text]!]
+	</script>
+</html>

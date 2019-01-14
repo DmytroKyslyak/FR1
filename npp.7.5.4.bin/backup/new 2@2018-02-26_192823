@@ -1,0 +1,25 @@
+Thanks for Upgrading to FingerText0.5.60 (Alpha)
+Please read this document if you are upgrading from previous versions.
+
+Upgrading from 0.5.37 or above
+Everything is compatible.
+
+Upgrading from any version between 0.5.20 and 0.5.35
+In version 0.5.60 after you triggered a option hotspot, you can use right/down arrow to move to next option, left/up arrow to move to previous option. Hit tab confirm the choice.
+
+ Also the option hotspot is not delimited by |~| anymore, it's using is simplier |. So $[![(opt)ABC|DEF|GHI]!] will define an hotspot with 3 options.
+Upgrading from any version between 0.5.0 and 0.5.18
+All hotspots are now triggered from inside to outside, left to right. Therefore dynamic snippets that is created before 0.5.20 can behave differently in this version.
+
+Upgrading from 0.4.15 or 0.4.16
+If you want to use your snippets after you upgrade to 0.5.60, you can go to the config folder and move the FingerText.db3 file to the config\FingerText folder after update.
+chain snippet is indicated by $[![(cha)]!] instead of $[![(chain)]!]
+
+Upgrading from 0.4.4 or 0.4.11
+If you want to use your snippets after you upgrade to 0.5.60, you can go to the config folder and move the FingerText.db3 file to the config\FingerText folder after update.
+
+Upgrading from 0.4.1
+If you want to use your snippets after you upgrade to 0.5.60, you can go to the %Notepad++ folder%\plugins\FingerText and get the old database file Snippets.db3. Rename is to FingerText.db3 and move it to the config\FingerText folder after update.
+
+Upgrading from 0.3.5 or below
+FingerText 0.3.5 or below use a 'one snippet per file' system to store snippets, which is not compatibile with current version. If you really have a lot of snippets created using these early version, please send your snippets to erinata@gmail.com. I will try my best to import them into the database in the current version.

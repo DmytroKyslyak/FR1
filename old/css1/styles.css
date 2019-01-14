@@ -1,0 +1,46 @@
+.info{
+    background: lightgreen url(http://htmlbook.ru/themes/hb/img/logo.png) fixed no-repeat 400px 50px;
+    /* background: url(https://www.almanac.com/sites/default/files/styles/primary_image_in_article/public/image_nodes/winter-solstice.jpg?itok=9iEebU2H) no-repeat center; */
+    /* background-size: auto 100%; */
+    width: 600px;
+    height: 700px;
+    padding: 20px 40px 0 80px;
+    border: 3px solid darkgreen;
+    border-radius: 100px;
+}
+.info-photo{
+    float: left;
+    margin: 0px 20px 20px 0;
+}
+.info-link{
+	color: aqua;
+	background: aliceblue;
+}
+.info-link:hover {
+    color: rebeccapurple;
+    background: red;
+}
+.topik{
+	font-size: 24pt;
+	color: red;
+}
+.position{
+    background: cyan;
+    padding: 10px;
+    border: 1px solid blue;
+    margin: 10px;
+    position: relative;
+}
+.block{
+	width: 50px;
+	height: 50px;
+	background: yellow;
+	border: 2px solid red;
+	display: inline-block;
+}
+.red{
+	background: red;
+	position: absolute;
+	top: 20px;
+	left: 20px;
+}

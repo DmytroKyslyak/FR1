@@ -1,0 +1,92 @@
+.info{
+    background: lightgreen url(http://htmlbook.ru/themes/hb/img/logo.png) fixed no-repeat 400px 50px;
+    /* background: url(https://www.almanac.com/sites/default/files/styles/primary_image_in_article/public/image_nodes/winter-solstice.jpg?itok=9iEebU2H) no-repeat center; */
+    /* background-size: auto 100%; */
+    width: 600px;
+    height: 700px;
+    padding: 20px 40px 0 80px;
+    border: 3px solid darkgreen;
+    border-radius: 100px;
+}
+.info-photo{
+    float: left;
+    margin: 0px 20px 20px 0;
+}
+.info-link{
+	color: aqua;
+	background: aliceblue;
+}
+.info-link:hover {
+    color: rebeccapurple;
+    background: red;
+}
+.topik{
+	font-size: 24pt;
+	color: red;
+}
+.table{
+	width: 700px;
+	height: 500px;
+	background: #39690e;
+	padding: 10px;
+	border: 1px solid blue;
+	margin: 10px;
+	position: relative;
+	
+}
+.pleer1{
+	width: 100px;
+	height: 100px;
+	top: 100px;
+	left: 260px;
+	border: 2px solid #CDDC39;
+	position: absolute;
+	padding: 50px;
+}
+.pleer2{
+	width: 230px;
+	height: 90px;
+	border: 2px solid #CDDC39;
+	position: absolute;
+	top: 375px;
+	left: 220px;
+	padding: 20px;
+}
+.pleer3{
+	width: 90px;
+	height: 230px;
+	top: 100px;
+	border: 2px solid #CDDC39;
+	position: fixed;
+	padding: 20px;
+}
+.pleer4{
+	width: 90px;
+	height: 230px;
+	top: 100px;
+	left: 590px;
+	border: 2px solid #CDDC39;
+	position: fixed;
+	padding: 20px;
+}
+.karta{
+	width: 50px;
+	height: 80px;
+	border-radius: 10px;
+	background: #FFEB3B;
+	border: 2px solid #CDDC39;
+	display: inline-block;
+}
+.kartav{
+	width: 80px;
+	height: 50px;
+	border-radius: 10px;
+	background: #FFEB3B;
+	border: 2px solid #CDDC39;
+	display: inline-block;
+}	
+.karta2{
+	position: absolute;
+	top: 70px;
+	left: 90px;
+}

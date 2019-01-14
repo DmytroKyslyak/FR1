@@ -70,4 +70,10 @@ css
 
 конспект
 
+flex
+align-content - при переносах
+
+
+
+
 

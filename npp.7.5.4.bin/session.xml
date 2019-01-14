@@ -1,6 +1,9 @@
 <NotepadPlus>
     <Session activeView="0">
-        <mainView activeIndex="0" />
+        <mainView activeIndex="0">
+            <File firstVisibleLine="51" xOffset="0" scrollWidth="3190" startPos="3072" endPos="3072" selMode="0" lang="HTML" encoding="-1" filename="C:\Git\FR1\bem_hw\travelcity\index.html" backupFilePath="C:\Git\FR1\npp.7.5.4.bin\backup\index.html@2019-01-14_195102" originalFileLastModifTimestamp="1547488246" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="3080234" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="580" startPos="0" endPos="0" selMode="0" lang="CSS" encoding="-1" filename="C:\Git\FR1\bem_hw\travelcity\styles.css" backupFilePath="" originalFileLastModifTimestamp="1547488060" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="1144750080" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
         <subView activeIndex="0" />
     </Session>
 </NotepadPlus>

@@ -63,7 +63,7 @@
         <GUIConfig name="ScintillaGlobalSettings" enableMultiSelection="no" />
         <GUIConfig name="openSaveDir" value="0" defaultDirPath="" />
         <GUIConfig name="titleBar" short="no" />
-        <GUIConfig name="stylerTheme" path="D:\Fr_11_2018\npp.7.5.4.bin\stylers.xml" />
+        <GUIConfig name="stylerTheme" path="C:\Git\FR1\npp.7.5.4.bin\stylers.xml" />
         <GUIConfig name="wordCharList" useDefault="yes" charsAdded="" />
         <GUIConfig name="delimiterSelection" leftmostDelimiter="40" rightmostDelimiter="41" delimiterSelectionOnEntireDocument="no" />
         <GUIConfig name="multiInst" setting="0" />
@@ -71,7 +71,7 @@
         <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="yes" edge="no" edgeNbColumn="80" zoom="3" zoom2="4" whiteSpaceShow="hide" eolShow="hide" borderWidth="2" smoothFont="no" />
-        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="202" topHeight="200" bottomHeight="105">
+        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="389" topHeight="200" bottomHeight="105">
             <FloatingWindow cont="4" x="1064" y="120" width="1568" height="819" />
             <PluginDlg pluginName="NppFTP.dll" id="0" curr="1" prev="4" isVisible="yes" />
             <PluginDlg pluginName="NppFTP.dll" id="99" curr="3" prev="-1" isVisible="yes" />

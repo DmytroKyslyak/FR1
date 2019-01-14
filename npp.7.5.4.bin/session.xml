@@ -1,10 +1,6 @@
 <NotepadPlus>
-    <Session activeView="1">
-        <mainView activeIndex="0">
-            <File firstVisibleLine="27" xOffset="0" scrollWidth="1450" startPos="155" endPos="155" selMode="0" lang="HTML" encoding="-1" filename="D:\Fr_11_2018\bem\travelcity\index.html" backupFilePath="" originalFileLastModifTimestamp="1545245198" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="48234652" mapWrapIndentMode="-1" mapIsWrap="no" />
-        </mainView>
-        <subView activeIndex="0">
-            <File firstVisibleLine="42" xOffset="0" scrollWidth="1232" startPos="1010" endPos="1010" selMode="0" lang="CSS" encoding="-1" filename="D:\Fr_11_2018\bem\travelcity\styles.css" backupFilePath="" originalFileLastModifTimestamp="1545246681" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="71628472" mapWrapIndentMode="-1" mapIsWrap="no" />
-        </subView>
+    <Session activeView="0">
+        <mainView activeIndex="0" />
+        <subView activeIndex="0" />
     </Session>
 </NotepadPlus>

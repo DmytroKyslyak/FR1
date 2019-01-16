@@ -1,8 +1,8 @@
 <NotepadPlus>
     <Session activeView="0">
         <mainView activeIndex="1">
-            <File firstVisibleLine="51" xOffset="0" scrollWidth="3190" startPos="3072" endPos="3072" selMode="0" lang="HTML" encoding="-1" filename="C:\Git\FR1\bem_hw\travelcity\index.html" backupFilePath="" originalFileLastModifTimestamp="1547488263" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="3080234" mapWrapIndentMode="-1" mapIsWrap="no" />
-            <File firstVisibleLine="108" xOffset="0" scrollWidth="2030" startPos="2274" endPos="2274" selMode="0" lang="CSS" encoding="-1" filename="C:\Git\FR1\bem_hw\travelcity\styles.css" backupFilePath="" originalFileLastModifTimestamp="1547493204" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="1144750080" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="3190" startPos="310" endPos="310" selMode="0" lang="HTML" encoding="-1" filename="C:\Git\FR1\bem_hw\travelcity\index.html" backupFilePath="" originalFileLastModifTimestamp="1547665016" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="3080234" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="158" xOffset="0" scrollWidth="2030" startPos="3904" endPos="3904" selMode="0" lang="CSS" encoding="-1" filename="C:\Git\FR1\bem_hw\travelcity\styles.css" backupFilePath="" originalFileLastModifTimestamp="1547665239" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="1144750080" mapWrapIndentMode="-1" mapIsWrap="no" />
         </mainView>
         <subView activeIndex="0" />
     </Session>

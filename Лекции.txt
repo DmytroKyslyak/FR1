@@ -73,6 +73,14 @@ css
 flex
 align-content - при переносах
 
+.ghhjhjh * пробел в css переход к дочернему уровню
+* выбираем все
+html.book.ru
+
+css 
+.dffff::before псевдоэлемент
+
+page speed insights - проверка сайта
 
 
 

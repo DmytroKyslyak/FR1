@@ -1,0 +1,55 @@
+conteiner
+	conteiner__line
+	conteiner__header conteiner__block
+		header
+	conteiner__navigation conteiner__block
+		navigation
+	conteiner__slider conteiner__block
+		slider
+			...
+				slider__slides
+					...
+						slide
+							slide__image
+							slide__heading
+								dblheading
+									dblheading__main
+									dblheading__sub
+			slider__menu
+				list-menu list-menu_numbered
+					list-menu_item
+						list-menu_link
+							list-menu-item
+								list-menu-item__marker
+								list-menu-item__text
+								
+	conteiner__mainpage conteiner__block
+		mainpage
+			mainpage__block mainpage__block_50pc
+				wsblock
+					wsblock__heading
+						wsheading
+							wsheading__marker
+							wsheading__text
+							wsheading__bar
+					wsblock__content
+			mainpage__block  mainpage__block_33pc
+				wsblock
+					wsblock__heading
+						wsheading
+							wsheading__marker
+							wsheading__text
+							wsheading__bar
+					wsblock__content
+						teams
+							teams__team
+								team
+									team__photo-placeholder
+										team__photo
+									team__text
+										team__name
+										team__description
+			mainpage__block 
+					
+	conteiner__footer
+		footer

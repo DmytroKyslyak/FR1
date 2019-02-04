@@ -85,6 +85,9 @@ css
 
 page speed insights - проверка сайта
 
+Ctrl+h
+ <!--[^\->]+--> удалить описание везде
+Replace - пробел
 
-
-
+построение списка css по html коду
+css c @ выражение at rule

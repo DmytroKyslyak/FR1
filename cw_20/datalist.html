@@ -1,0 +1,29 @@
+<input type='text' list='planetdata'>
+<datalist id='planetdata'>
+	<option value="Earth">
+	<option value="Venus">
+	<option value="Mars">
+	<option value="Fomalhaut b">
+	<option value="HR 8799">
+</datalist>
+
+<style>
+.effects_glowing {
+    animation-direction: 		alternate;
+    animation-duration: 		500ms;
+    animation-iteration-count: 	infinite;
+    animation-name: 		animation_effects_glowing;
+    animation-timing-function: 	ease-in;
+}
+
+@keyframes animation_effects_glowing {
+	0% {
+    		box-shadow: 		0 0 2px blue;
+		}
+	100% {
+		box-shadow: 		0 0 10px blue;
+		}
+}
+</style>
+
+<input class='search__query effects_glowing'>
